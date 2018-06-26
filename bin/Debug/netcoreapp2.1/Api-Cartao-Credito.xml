@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api-Cartao-Credito</name>
+    </assembly>
+    <members>
+        <member name="T:Api_Cartao_Credito.Controllers.v1.CartaoController">
+            <summary>
+            Recurso para gerenciamento de informações de cartão de crédito
+            </summary>
+        </member>
+        <member name="M:Api_Cartao_Credito.Controllers.v1.CartaoController.Get(System.Int32,System.Int32,System.Double)">
+            <summary>
+            Obter a informação se a comrpa está validada
+            </summary>
+            <param name="idusuario">Id do usuário da compra</param>
+            <param name="numerocartao">Número cartão crédito</param>
+            <param name="valor">Valor da compra</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

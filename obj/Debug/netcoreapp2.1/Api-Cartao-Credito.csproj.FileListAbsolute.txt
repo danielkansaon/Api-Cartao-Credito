@@ -1,0 +1,15 @@
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.xml
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.deps.json
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.runtimeconfig.json
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.runtimeconfig.dev.json
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.dll
+D:\GIT\Api-Cartao-Credito\bin\Debug\netcoreapp2.1\Api-Cartao-Credito.pdb
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.csprojAssemblyReference.cache
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.csproj.CoreCompileInputs.cache
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.RazorAssemblyInfo.cache
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.RazorAssemblyInfo.cs
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.AssemblyInfoInputs.cache
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.AssemblyInfo.cs
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.RazorTargetAssemblyInfo.cache
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.dll
+D:\GIT\Api-Cartao-Credito\obj\Debug\netcoreapp2.1\Api-Cartao-Credito.pdb
