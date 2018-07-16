@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:4454",
-      "sslPort": 44317
+      "applicationUrl": "http://localhost:9050",
+      "sslPort": 0
     }
   },
   "profiles": {
@@ -20,11 +20,11 @@
     "Api_Cartao_Credito": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "launchUrl": "api/values",     
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "applicationUrl": "https://localhost:9050"
     }
   }
 }
